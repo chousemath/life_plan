@@ -1,9 +1,9 @@
 ### My Goals
 
-* [Jo] Launch a small software business / youtube channel with the goal of generating a small amount of passive income at 30
+* [Jo] Launch a small software business / youtube channel with the goal of generating a small amount of passive income at 30 (e.g. www.learnkonglish.com)
 * [Jo] Start writing a book with the goal of self-publishing and selling on Amazon by 30
 * [Jo] Get married by 30
-* [Jo] Start a career as a software engineer (regular or senior) at a large company (more than 1000 employees), mid-level software engineer salary ($76667) by 30 
+* [Jo] Start a career as a software engineer (regular or senior) at a large company in Seattle (more than 1000 employees), mid-level software engineer salary ($76667) by 30 
 * [Su] Get a job at an American Starbucks with the goal of perfecting my English language skills and getting used to English culture in as short a time as possible by 31
 * [Jo] Move into a small home / apartment by 30 (this will be a temporary home while we plan and save up for our more permanent home)
 * [Jo&Su] Start raising a dog by 30
@@ -17,7 +17,7 @@
 * [Jo&Su] Organize and pay for a 5-day trip to Hawaii for all of our parents to meet and get to know each otherat 32
 * [Jo&Su] Have a house to move into that is big enough to raise two kids by 33
 * [Jo] Finish up and publish my first book through Amazon self-publishing by 33
-* [Su] Move from the Korean freight forwarding company to a more established, American freight forwarding company (salary of approximate $35000) by 34
+* [Su] Move from the Korean freight forwarding company to a more established, American freight forwarding company (salary of approximate $35000) by 34, list of some freight forwarding companies in Seattle (http://www.forwarders.com/StateDirectory/WA.html)
 * [Jo] Become a lead developer / technical architect by 34, top-level software engineer salary ($130000)
 * [Jo] Become a certified skydiver by 34
 * [Jo&Su] Have a child by 34
