@@ -10,13 +10,19 @@
 * [Jo] Bring Sookang to a conversational English level by 30.5
 * [Jo&Su] Start raising a second dog by 31
 * [Su] Become proficient in business English by 31
+* [Su] 1-week trip to Korea in November of 2020
+* [Su] 1-week trip to Korea in March of 2021
 * [Su] Start a career in freight forwarding in an entry level position at a Korean freight forwarding company [한인 무역회사] (approximately $30000 salary) by 32
 * [Jo] Progress in my career into a senior or more senior software engineering role by 32, senior software engineer salary ($98672)
 * [Jo] Launch my second small software business with the goal of generating more passive income at 32
 * [Jo&Su] Become a certified scuba diver by 32
 * [Jo&Su] Organize and pay for a 5-day trip to Hawaii for all of our parents to meet and get to know each otherat 32
+* [Su] 1-week trip to Korea in November of 2021
+* [Su] 1-week trip to Korea in March of 2022
 * [Jo&Su] Have a house to move into that is big enough to raise two kids by 33
 * [Jo] Finish up and publish my first book through Amazon self-publishing by 33
+* [Su] 1-week trip to Korea in November of 2022
+* [Su] 1-week trip to Korea in March of 2023
 * [Su] Move from the Korean freight forwarding company to a more established, American freight forwarding company (salary of approximate $35000) by 34, list of some freight forwarding companies in Seattle (http://www.forwarders.com/StateDirectory/WA.html)
 * [Jo] Become a lead developer / technical architect by 34, top-level software engineer salary ($130000)
 * [Jo] Become a certified skydiver by 34
@@ -24,8 +30,8 @@
 * [Jo] Launch my third small software business with the goal of generating more passive income at 34
 * [Jo] Start writing a software book with the goal of self-publishing and selling on Amazon at 34
 * [Jo&Su] Organize and pay for a 2-week trip to Hawaii for all of our parents at 34
-* [Jo] Finish up and publish my software book through Amazon self-publishing by 35
 * [Su] Advance in freight forwarding career to senior freight forward by 34 (approximately $45000 salary) by 36
+* [Jo] Finish up and publish my software book through Amazon self-publishing by 35
 * [Jo] Become a development team lead / software development manager by 36, software manager salary ($138000)
 * [Jo&Su] Have a second child by 36, average family of 4 in Seattle requires $78000/year to survive
 * [Jo] Launch my fourth small software business with the goal of generating more passive income at 36
